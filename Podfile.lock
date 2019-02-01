@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Kingfisher (4.9.0)
+  - Nuke (7.5.2)
+  - PinLayout (1.8.6)
+  - RxAlamofire (4.3.0):
+    - RxAlamofire/Core (= 4.3.0)
+  - RxAlamofire/Core (4.3.0):
+    - Alamofire (~> 4.5)
+    - RxSwift (~> 4)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 4.9.0)
+  - Nuke
+  - PinLayout
+  - RxAlamofire
+  - RxCocoa (~> 4.2.0)
+  - RxSwift (~> 4.2.0)
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - Nuke
+    - PinLayout
+    - RxAlamofire
+    - RxCocoa
+    - RxSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  Nuke: 0350d346a688426e8f2331253ef28dc2fc4f6178
+  PinLayout: fe2a2432d6982588e208572005c941aeeae417ab
+  RxAlamofire: 09624d0f2d48ed8b686e4eb4cf68e28cbd2df556
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 88c6b00fbead9da8d3807a79bb8e434fec5ead91
+
+COCOAPODS: 1.5.3
